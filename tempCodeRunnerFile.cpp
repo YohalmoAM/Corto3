@@ -1,0 +1,1 @@
+cout<<"Introduce un numero: "<<endl;
